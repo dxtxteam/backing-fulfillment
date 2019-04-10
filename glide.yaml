@@ -1,0 +1,8 @@
+package: github.com/dxtxteam/backing-fulfillment
+import:
+- package: github.com/codegangsta/negroni
+  version: v1.0.0
+- package: github.com/gorilla/mux
+  version: v1.7.1
+- package: github.com/unrolled/render
+  version: v1.0.0
